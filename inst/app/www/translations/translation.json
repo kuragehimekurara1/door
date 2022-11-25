@@ -1,11 +1,11 @@
 {
   "languages":["en", "ko", "ja", "ryu," "zh_CN", "zh_TW"],
   "translation":[
-    {"en": "Statgarten", "ko": "애옹" "ja": "シュタットガルテン", "ryu": "シュタットガルテン", "zh_CN": "国家花园", "zh_TW": "國家花園"},
-    {"en": "Uploaded Data", "ko": "작업 데이터" "ja": "アップロードされたデータ", "ryu": "アップロードさったるデータ", "zh_CN": "上传数据", "zh_TW": "上傳數據"},
-    {"en": "Files", "ko": "파일" "ja": "Files", "ryu": "Files", "zh_CN": "Files", "zh_TW": "Files"},
-    {"en": "URL", "ko": "링크" "ja": "URL", "ryu": "URL", "zh_CN": "URL", "zh_TW": "URL"},
-    {"en": "Load Example data", "ko": "예시 데이터 불러오기"},
+    {"en": "Statgarten", "ko": "애옹",, "ja": "シュタットガルテン", "ryu": "シュタットガルテン", "zh_CN": "国家花园", "zh_TW": "國家花園"},
+    {"en": "Uploaded Data", "ko": "작업 데이터", "ja": "アップロードされたデータ", "ryu": "アップロードさったるデータ", "zh_CN": "上传数据", "zh_TW": "上傳數據"},
+    {"en": "Files", "ko": "파일", "ja": "ファイル", "ryu": "ファイル", "zh_CN": "文件", "zh_TW": "文件"},
+    {"en": "URL", "ko": "링크", "ja": "URL", "ryu": "URL", "zh_CN": "URL", "zh_TW": "URL"},
+    {"en": "Load Example data", "ko": "예시 데이터 불러오기" "ja": "Load Example data", "ryu": "Load Example data", "zh_CN": "Load Example data", "zh_TW": "Load Example data", },
     {"en": "Load Boston: Regression", "ko": "Boston: Regression 데이터 불러오기"},
     {"en": "Load Boston: Classification", "ko": "Boston: Classification 데이터 불러오기"},
     {"en": "Google Sheet", "ko": "구글시트"},
